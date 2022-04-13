@@ -1,0 +1,15 @@
+.completed {
+  text-decoration: line-through;
+}
+.todo-text {
+  margin: 16px 8px 16px 8px;
+}
+.todoBtn {
+  display: none;
+  width: 24px;
+  height: 24px;
+}
+.todo:hover .todoBtn {
+  display: inline-block;
+  cursor: pointer;
+}

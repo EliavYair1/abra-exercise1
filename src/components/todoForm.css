@@ -1,0 +1,28 @@
+input[type='text'] {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+  margin-top: 24px;
+}
+input {
+  margin-right: 17px;
+}
+
+.formBtn {
+  gap: 10px;
+  margin: 0 0 0 17px;
+  padding: 9px 32px;
+  border-radius: 6px;
+  background-color: #0e1649;
+  width: 95px;
+  height: 40px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
